@@ -1,6 +1,6 @@
-# networking-tools
+# :pirate_flag: networking-tools
 
-#### Password Crackers
+#### :diamond_shape_with_a_dot_inside: Password Crackers
 Password Crackers	Password cracking tools are often referred to as password recovery tools and can be used to crack or recover a password. This is accomplished either by removing the original password, after bypassing the data encryption, or by outright discovery of the password. Password crackers repeatedly make guesses in order to crack the password. Examples of password cracking tools include John the Ripper, Ophcrack, L0phtCrack, THC Hydra, RainbowCrack, and Medusa.
 
 #### :diamond_shape_with_a_dot_inside: Wireless Hacking Tools
