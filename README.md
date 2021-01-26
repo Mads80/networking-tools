@@ -6,34 +6,34 @@ Password Crackers	Password cracking tools are often referred to as password reco
 #### :diamond_shape_with_a_dot_inside: Wireless Hacking Tools
 Wireless hacking tools are used to intentionally hack into a wireless network to detect security vulnerabilities. Examples of wireless hacking tools include Aircrack-ng, Kismet, InSSIDer, KisMAC, Firesheep, and NetStumbler.
 
-#### Network Scanning and Hacking Tools
+#### :diamond_shape_with_a_dot_inside: Network Scanning and Hacking Tools
 Network scanning tools are used to probe network devices, servers, and hosts for open TCP or UDP ports. Examples of scanning tools include Nmap, SuperScan, Angry IP Scanner, and NetScanTools.
 
-#### Packet Crafting Tools
+#### :diamond_shape_with_a_dot_inside: Packet Crafting Tools
 These tools are used to probe and test a firewall’s robustness using specially crafted forged packets. Examples include Hping, Scapy, Socat, Yersinia, Netcat, Nping, and Nemesis.
 
-#### Packet Sniffers
+#### :diamond_shape_with_a_dot_inside: Packet Sniffers
 These tools are used to capture and analyze packets within traditional Ethernet LANs or WLANs. Tools include Wireshark, Tcpdump, Ettercap, Dsniff, EtherApe, Paros, Fiddler, Ratproxy, and SSLstrip.
 
-#### Rootkit Detectors
+#### :diamond_shape_with_a_dot_inside: Rootkit Detectors
 This is a directory and file integrity checker used by white hats to detect installed root kits. Example tools include AIDE, Netfilter, and PF: OpenBSD Packet Filter.
 
-#### Fuzzers to Search Vulnerabilities
+#### :diamond_shape_with_a_dot_inside: Fuzzers to Search Vulnerabilities
 Fuzzers are tools used by threat actors to discover a computer’s security vulnerabilities. Examples of fuzzers include Skipfish, Wapiti, and W3af.
 
-#### Forensic Tools	These tools are used by white hat hackers to sniff out any trace of evidence existing in a computer. Example of tools include Sleuth Kit, Helix, Maltego, and Encase.
+#### :diamond_shape_with_a_dot_inside: Forensic Tools	These tools are used by white hat hackers to sniff out any trace of evidence existing in a computer. Example of tools include Sleuth Kit, Helix, Maltego, and Encase.
 
-#### Debuggers
+#### :diamond_shape_with_a_dot_inside: Debuggers
 These tools are used by black hats to reverse engineer binary files when writing exploits. They are also used by white hats when analyzing malware. Debugging tools include GDB, WinDbg, IDA Pro, and Immunity Debugger.
 
-#### Hacking Operating Systems
+#### :diamond_shape_with_a_dot_inside: Hacking Operating Systems
 These are specially designed operating systems preloaded with tools optimized for hacking. Examples of specially designed hacking operating systems include Kali Linux, Knoppix, BackBox Linux.
 
-#### Encryption Tools
+#### :diamond_shape_with_a_dot_inside: Encryption Tools
 Encryption tools use algorithm schemes to encode the data to prevent unauthorized access to the encrypted data. Examples of these tools include VeraCrypt, CipherShed, OpenSSH, OpenSSL, Tor, OpenVPN, and Stunnel.
 
-#### Vulnerability Exploitation Tools
+#### :diamond_shape_with_a_dot_inside: Vulnerability Exploitation Tools
 These tools identify whether a remote host is vulnerable to a security attack. Examples of vulnerability exploitation tools include Metasploit, Core Impact, Sqlmap, Social Engineer Toolkit, and Netsparker.
 
-#### Vulnerability Scanners
+#### :diamond_shape_with_a_dot_inside: Vulnerability Scanners
 These tools scan a network or system to identify open ports. They can also be used to scan for known vulnerabilities and scan VMs, BYOD devices, and client databases. Examples of tools include Nipper, Secunia PSI, Core Impact, Nessus v6, SAINT, and Open VAS.
